@@ -106,25 +106,25 @@ en: &DEFAULT_EN
     people:
       - name: "Oma Sanders"
         role: "Senior Scrum Master"
-        image: assets/img/team/oma.jpeg
+        image: assets/img/team/oma.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Hakeem Falade"
         role: "Lead Scrum Master"
-        image: assets/img/team/hakeem.jpeg
+        image: assets/img/team/hakeem.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Carista"
         role: "Lead Developer"
-        image: assets/img/team/carista.jpeg
+        image: assets/img/team/carista.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Francis Atere"
         role: "Junior Scrum Master"
-        image: assets/img/team/peter.png
+        image: assets/img/team/francis.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -136,7 +136,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Diffang Cyril"
         role: "Junior Scrum Master"
-        image: assets/img/team/cyril.jpeg
+        image: assets/img/team/cyril.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
@@ -148,7 +148,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Djutoue Kheredine"
         role: "Fullstack Developer"
-        image: assets/img/team/kheredine.jpg
+        image: assets/img/team/kheredine.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
