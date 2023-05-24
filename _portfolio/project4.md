@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Travel Booking Platform
 image: assets/img/portfolio/04-full.jpg
-alt: 
+alt: Travel Booking Platform
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Travel Booking Platform
+  subtitle: Travel & Hospitality
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Agile Aviators partnered with Wanderlust Adventures, a travel agency, to develop a dynamic travel booking platform. The project aimed to provide users with a seamless experience to browse destinations, book flights, accommodations, and activities. Agile Aviators employed Agile project management techniques to prioritize features, deliver frequent releases, and incorporate user feedback, enabling Wanderlust Adventures to offer a robust and user-friendly travel platform.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: October 2022
+- Client: Wanderlust Adventures
+- Category: Travel & Hospitality
 
