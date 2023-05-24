@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Team!
+    title: Welcome to the Agile Aviators Team!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Our services include"
+    text: "Unlock your organization's Agile potential with Agile Aviators"
     section: services
     list:
       - title: "Agile Coaching and Training"
@@ -39,35 +39,35 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Elevate Your Agile Transformation with Agile Aviators"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Embark on a transformative journey with Agile Aviators as we guide you through a timeline of innovation, collaboration, and accelerated results"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2020"
+        desc: "Agile Aviators is founded by a group of passionate Agile practitioners, assemble a small team of Scrum Masters, developers, and Product Owners. Conduct initial Agile workshops and training sessions for local businesses"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Expanding Horizons: Empowering Agile Transformations"
+        year: "2021"
+        desc: "Expand the team to accommodate growing demand for Agile services, successfully coach and assist multiple organizations in their Agile transformations. Establish partnerships with key industry players to enhance service offerings"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Unleashing Agile Potential: From Workshops to Partnerships"
+        year: "2022"
+        desc: "Launch an online Agile training platform to reach a wider audience, host Agile conferences and workshops, sharing insights and best practices. Earn recognition as a trusted Agile consulting firm in the region."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Celebrating Three Years of Agile Excellence: Scaling Impact and Industry Recognition"
+        year: "2023"
+        desc: "Expand the team further, hiring additional experts to cater to diverse client needs. Develop specialized Agile solutions for specific industries, such as healthcare and finance"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -76,8 +76,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "Who are we"
+    body: "Agile Aviators is a dynamic and versatile team of experienced Scrum Masters, skilled developers, and innovative Product Owners, dedicated to providing comprehensive Agile solutions tailored to your organization's unique needs"
     section: about
 
   clients:
@@ -100,8 +100,8 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Meet the Agile Aviators – a passionate and skilled team of Scrum Masters, developers, and Product Owners"
+    subtext: The mission of Agile Aviators is to deliver high quality products that exceed customer expectations through fostering a culture of innovation and collaborative excellence
     section: team
     people:
       - name: "Kay Garland"
