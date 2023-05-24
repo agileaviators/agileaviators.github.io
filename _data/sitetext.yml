@@ -35,10 +35,10 @@ en: &DEFAULT_EN
         icon: fas fa-hand-holding-usd
       - title: "Agile Facilitation and Retrospectives"
         desc: "We facilitate productive Agile ceremonies, including daily stand-ups, sprint planning, sprint reviews, and retrospectives."
-        icon: fas fa-tachometer-alt-fastest
+        icon: fas fa-wrench
       - title: "Agile Quality Assurance and Testing"
         desc: "At Agile Aviators, we understand the importance of ensuring the highest quality of your software products. Our experienced QA specialists collaborate closely with development teams throughout the Agile development lifecycle"
-        icon: fas fa-tilde
+        icon: fas fa-laptop
 
   portfolio:
     title: "Portfolio"
