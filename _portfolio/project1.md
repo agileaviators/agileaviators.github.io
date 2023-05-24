@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: E-Commerce Optimization
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: E-Commerce Optimization
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: E-Commerce Optimization
+  subtitle: Retail & E-Commerce
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Agile Aviators collaborated with StellarMart, an online retail giant, to optimize their e-commerce platform. The project involved implementing Agile practices to enhance website performance, improve user experience, and increase conversion rates. 
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: January 2020
+- Client: StellarMart
+- Category: Retail & E-Commerce
 
