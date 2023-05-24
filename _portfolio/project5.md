@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: HR Process Automation
 image: assets/img/portfolio/05-full.jpg
-alt: 
+alt: HR Process Automation
 
 caption:
-  title: Southwest
-  subtitle: Website Design
+  title: HR Process Automation
+  subtitle: Human Resources & Recruitment
   thumbnail: assets/img/portfolio/05-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Agile Aviators worked with TalentBridge, a human resources consultancy, to automate their HR processes. The project involved implementing Agile methodologies to streamline recruitment, employee onboarding, and performance management systems. By leveraging Agile principles, Agile Aviators facilitated collaboration between HR and IT teams, resulting in increased efficiency, reduced administrative overhead, and improved candidate and employee experiences.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: July 2023
+- Client: TalentBridge
+- Category: Human Resources & Recruitment
 
