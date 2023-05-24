@@ -111,19 +111,19 @@ en: &DEFAULT_EN
         role: "Senior Scrum Master"
         image: assets/img/team/oma.png
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/oma-sanders
             icon: fab fa-linkedin-in
       - name: "Hakeem Falade"
         role: "Lead Scrum Master"
         image: assets/img/team/hakeem.png
         social:
-          - url: https://linkedin.com
+          - url: www.linkedin.com/in/abdulhakeem-abimbola-falade
             icon: fab fa-linkedin-in
-      - name: "Carista"
+      - name: "Carista Ayaba"
         role: "Lead Developer"
         image: assets/img/team/carista.png
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/bih-ayaba-89888719a
             icon: fab fa-linkedin-in
       - name: "Francis Atere"
         role: "Junior Scrum Master"
