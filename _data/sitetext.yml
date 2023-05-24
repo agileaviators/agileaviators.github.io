@@ -104,37 +104,54 @@ en: &DEFAULT_EN
     subtext: The mission of Agile Aviators is to deliver high quality products that exceed customer expectations through fostering a culture of innovation and collaborative excellence
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Oma Sanders"
+        role: "Senior Scrum Master"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Hakeem Falade"
+        role: "Lead Scrum Master"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
+      - name: "Carista"
         role: "Lead Developer"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-
+      - name: "Francis Atere"
+        role: "Junior Scrum Master"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Gabrisoft"
+        role: "Product Owner"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diffang Cyril"
+        role: "Junior Scrum Master"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Sandra Manga"
+        role: "Scrum Master"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Djutoue Kheredine"
+        role: "Fullstack Developer"
+        image: assets/img/team/500x500.jpg
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
