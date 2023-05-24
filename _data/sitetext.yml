@@ -131,7 +131,7 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Gabrisoft"
+      - name: "Gabriel Okwechime"
         role: "Product Owner"
         image: assets/img/team/2.jpg
         social:
