@@ -117,7 +117,7 @@ en: &DEFAULT_EN
         role: "Lead Scrum Master"
         image: assets/img/team/hakeem.png
         social:
-          - url: www.linkedin.com/in/abdulhakeem-abimbola-falade
+          - url: https://www.linkedin.com/in/abdulhakeem-abimbola-falade
             icon: fab fa-linkedin-in
       - name: "Carista Ayaba"
         role: "Lead Developer"
@@ -141,7 +141,7 @@ en: &DEFAULT_EN
         role: "Junior Scrum Master"
         image: assets/img/team/cyril.png
         social:
-          - url: linkedin.com/in/mejene-diffang-532939273
+          - url: https://www.linkedin.com/in/mejene-diffang-532939273
             icon: fab fa-linkedin-in
       - name: "Sandra Manga"
         role: "Scrum Master"
