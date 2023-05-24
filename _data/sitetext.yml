@@ -23,19 +23,19 @@ en: &DEFAULT_EN
     list:
       - title: "Agile Coaching and Training"
         desc: "Our certified Scrum Masters provide expert guidance and hands-on training to help your teams embrace Agile practices and effectively implement Scrum frameworks"
-        icon: fa-light fa-chart-mixed #find more at https://fontawesome.com/icons
+        icon: fas fa-analytics #find more at https://fontawesome.com/icons
       - title: "Agile Project Management"
         desc: "Our skilled Product Owners assist you in refining your product vision, prioritizing backlog items, and creating actionable user stories"
-        icon: fa-solid fa-diagram-project
+        icon: fas fa-project-diagram
       - title: "Agile Development and Delivery"
         desc: "Our skilled Product Owners assist you in refining your product vision, prioritizing backlog items, and creating actionable user stories"
-        icon: fa-solid fa-brackets-curly
+        icon: fas fa-brackets-curly
       - title: "Agile Transformation and Process Improvement"
         desc: "We collaborate with your organization to assess your current processes, identify areas for improvement, and develop customized Agile transformation strategies"
-        icon: fa-sharp fa-solid fa-arrow-progress
+        icon: fas fa-hand-holding-usd
       - title: "Agile Facilitation and Retrospectives"
         desc: "We facilitate productive Agile ceremonies, including daily stand-ups, sprint planning, sprint reviews, and retrospectives."
-        icon: fa-solid fa-arrows-split-up-and-left
+        icon: fas fa-trailer
 
   portfolio:
     title: "Portfolio"
