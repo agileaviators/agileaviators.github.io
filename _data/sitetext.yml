@@ -141,7 +141,7 @@ en: &DEFAULT_EN
         role: "Junior Scrum Master"
         image: assets/img/team/cyril.png
         social:
-          - url: https://linkedin.com
+          - url: linkedin.com/in/mejene-diffang-532939273
             icon: fab fa-linkedin-in
       - name: "Sandra Manga"
         role: "Scrum Master"
@@ -152,6 +152,12 @@ en: &DEFAULT_EN
       - name: "Djutoue Kheredine"
         role: "Fullstack Developer"
         image: assets/img/team/kheredine.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Akpor"
+        role: "Scrum Master"
+        image: assets/img/team/akpor.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
