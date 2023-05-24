@@ -1,18 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Mobile Health App
 image: assets/img/portfolio/03-full.jpg
-alt: 
+alt: Mobile Health App
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Mobile Health App
+  subtitle: Healthcare & Wellness
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+gile Aviators collaborated with HealTech, a digital health startup, to develop a mobile health app. The project focused on creating a user-friendly application that allowed users to track their health metrics, set goals, and receive personalized wellness recommendations.
 
 {:.list-inline}
-- Date: January 2017
+- Date: September 2020
 - Client: Finish
-- Category: Identity
+- Category: Healthcare & Wellness
 
