@@ -106,55 +106,55 @@ en: &DEFAULT_EN
     people:
       - name: "Oma Sanders"
         role: "Senior Scrum Master"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/oma.jpeg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Hakeem Falade"
         role: "Lead Scrum Master"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/hakeem.jpeg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Carista"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/carista.jpeg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Francis Atere"
         role: "Junior Scrum Master"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/peter.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Gabrisoft"
         role: "Product Owner"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/2.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Diffang Cyril"
         role: "Junior Scrum Master"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/cyril.jpeg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Sandra Manga"
         role: "Scrum Master"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Djutoue Kheredine"
         role: "Fullstack Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/kheredine.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "Ready to take flight towards Agile success? Connect with us and let's navigate your organization's transformation together"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
