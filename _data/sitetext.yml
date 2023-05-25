@@ -157,7 +157,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Sandra Manga"
         role: "Junior Scrum Master"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/sandra.png
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
