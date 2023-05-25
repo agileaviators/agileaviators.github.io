@@ -107,17 +107,29 @@ en: &DEFAULT_EN
     subtext: The mission of Agile Aviators is to deliver high quality products that exceed customer expectations through fostering a culture of innovation and collaborative excellence
     section: team
     people:
+      - name: "Hakeem Falade"
+        role: "Lead Scrum Master"
+        image: assets/img/team/hakeem.png
+        social:
+          - url: https://www.linkedin.com/in/abdulhakeem-abimbola-falade
+            icon: fab fa-linkedin-in
       - name: "Oma Sanders"
         role: "Senior Scrum Master"
         image: assets/img/team/oma.png
         social:
           - url: https://www.linkedin.com/in/oma-sanders
             icon: fab fa-linkedin-in
-      - name: "Hakeem Falade"
-        role: "Lead Scrum Master"
-        image: assets/img/team/hakeem.png
+      - name: "Gabriel Okwechime"
+        role: "Product Owner"
+        image: assets/img/team/2.jpg
         social:
-          - url: https://www.linkedin.com/in/abdulhakeem-abimbola-falade
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Djutoue Kheredine"
+        role: "Fullstack Developer"
+        image: assets/img/team/kheredine.png
+        social:
+          - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Carista Ayaba"
         role: "Lead Developer"
@@ -131,33 +143,21 @@ en: &DEFAULT_EN
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Gabriel Okwechime"
-        role: "Product Owner"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Diffang Cyril"
         role: "Junior Scrum Master"
         image: assets/img/team/cyril.png
         social:
           - url: https://www.linkedin.com/in/mejene-diffang-532939273
             icon: fab fa-linkedin-in
-      - name: "Sandra Manga"
-        role: "Scrum Master"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Djutoue Kheredine"
-        role: "Fullstack Developer"
-        image: assets/img/team/kheredine.png
-        social:
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Akpor"
-        role: "Scrum Master"
+        role: "Junior Scrum Master"
         image: assets/img/team/akpor.png
+        social:
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Sandra Manga"
+        role: "Junior Scrum Master"
+        image: assets/img/team/1.jpg
         social:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
