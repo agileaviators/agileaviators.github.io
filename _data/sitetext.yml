@@ -80,8 +80,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Who are we"
-    body: Agile Aviators is a leading provider of agile coaching and consulting services, empowering organizations to embrace and excel in the world of Agile methodologies. With a team of experienced professionals, including certified Scrum Masters, talented developers, and visionary product owners, we guide businesses through their Agile transformation journey with expertise, passion, and a commitment to success.
-          At Agile Aviators, we understand that in todays fast-paced and rapidly evolving market, organizations must adapt quickly to stay ahead. Agile methodologies offer a proven framework for fostering collaboration, flexibility, and continuous improvement, enabling teams to deliver high-quality products and services with speed and efficiency.
+    body: "Agile Aviators is a leading provider of agile coaching and consulting services, empowering organizations to embrace and excel in the world of Agile methodologies. With a team of experienced professionals, including certified Scrum Masters, talented developers, and visionary product owners, we guide businesses through their Agile transformation journey with expertise, passion, and a commitment to success. At Agile Aviators, we understand that in todays fast-paced and rapidly evolving market, organizations must adapt quickly to stay ahead. Agile methodologies offer a proven framework for fostering collaboration, flexibility, and continuous improvement, enabling teams to deliver high-quality products and services with speed and efficiency"
     section: about
 
   clients:
