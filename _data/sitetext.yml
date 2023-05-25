@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Our skilled Product Owners assist you in refining your product vision, prioritizing backlog items, and creating actionable user stories"
         icon: fas fa-project-diagram
       - title: "Agile Development and Delivery"
-        desc: "Our skilled Product Owners assist you in refining your product vision, prioritizing backlog items, and creating actionable user stories"
+        desc: "We emphasize iterative and incremental development, rapid prototyping, and regular feedback loops to deliver high-quality software solutions that meet your evolving business requirements"
         icon: fas fa-shipping-fast
       - title: "Agile Transformation and Process Improvement"
         desc: "We collaborate with your organization to assess your current processes, identify areas for improvement, and develop customized Agile transformation strategies"
