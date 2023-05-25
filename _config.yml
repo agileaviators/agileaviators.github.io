@@ -21,9 +21,9 @@ title      : Agile Aviators
 email      : agileaviators@gmail.com #this is also the email contact forms will go to
 description: "Agile Aviators is a dynamic and versatile team of experienced Scrum Masters, skilled developers, and innovative Product Owners"
 author     : Agile Aviators
-logo:     Agile Aviators
-  path: assets\img\agileaviators_logo.png
-  height: 60px #height in px, defaults to 52px
+#logo:     Agile Aviators
+  #path: assets\img\agileaviators_logo.png
+  #height: 60px #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
